@@ -1,0 +1,36 @@
+# Environment
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+part_b/output/
+part_c/model/
+part_c/data/*.json
+part_c/data/*.csv
+*.log
+
+# Keep the PDF for reference but it's large
+# prudential-plc-ar-2022.pdf
+text_classifier/model/
+rag_chatbot/output/

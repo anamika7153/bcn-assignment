@@ -1,0 +1,9 @@
+{
+  "strategy": 0,
+  "financial": 1,
+  "risk": 2,
+  "esg": 3,
+  "market": 4,
+  "operations": 5,
+  "leadership": 6
+}
